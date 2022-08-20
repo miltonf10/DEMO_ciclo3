@@ -37,7 +37,7 @@ public class DemoApplication {
 		//metas.printTasks();
 
 		metas.removeTask("Recordar POO");
-		System.out.println("Tareas pendientes:");
+		System.out.println("Tareas pendientes por:");
 		metas.printTasks();
 	}
 
